@@ -4,6 +4,8 @@ Assessment Criteria — Definitions &amp; Expectations
 Concept and Design:
 Strength of the original idea and the effectiveness of the visual solution. Demonstrates creativity, clear communication, and thoughtful application of design principles.
 
+Composition and Layout: Demonstrates effective organization of visual elements through hierarchy, balance, alignment, proportion, spacing, and use of negative space. The layout creates a clear visual flow and effectively communicates the intended message.
+
 Technical Skills:
 Quality of execution using digital tools and design techniques. Accuracy, craftsmanship, file organization, and technical proficiency are demonstrated throughout the project.
 
