@@ -1,5 +1,5 @@
 # Criteria-Definitions-Expectations
-Assessment Criteria — Definitions &amp; Expectations
+## Assessment Criteria — Definitions &amp; Expectations
 
 Concept and Design:
 Strength of the original idea and the effectiveness of the visual solution. Demonstrates creativity, clear communication, and thoughtful application of design principles.
