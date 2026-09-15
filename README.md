@@ -7,6 +7,9 @@ Strength of the original idea and the effectiveness of the visual solution. Demo
 Technical Skills:
 Quality of execution using digital tools and design techniques. Accuracy, craftsmanship, file organization, and technical proficiency are demonstrated throughout the project.
 
+Typography: 
+Demonstrates thoughtful and effective use of typography, including font selection, hierarchy, spacing, alignment, legibility, and overall typographic composition. Typography supports the concept and enhances the visual communication of the project.
+
 Research:
 Depth and relevance of visual, historical, and contextual research. References effectively inform the concept and design decisions.
 
@@ -23,4 +26,10 @@ Respect for Guidelines:
 The project meets all assignment requirements, including format, dimensions, specifications, deadlines, naming conventions, and submission instructions.
 
 Professionalism:
-Demonstrates responsibility, preparation, participation, respectful collaboration, and effective time management throughout the project.
+Demonstrates responsibility, preparation, and effective time management throughout the project.
+
+Teamwork: 
+Demonstrates effective collaboration, communication, and respect for team members. Contributes consistently to the project, shares responsibilities, listens to others, and supports the team in achieving common goals.
+
+SPLI: 
+Clear, effective, and professional use of English in written and oral communication, including appropriate terminology and vocabulary.
