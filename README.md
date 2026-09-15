@@ -15,6 +15,7 @@ Depth and relevance of visual, historical, and contextual research. References e
 
 Presentation:
 Professional quality of the final submission. Work is well-composed, clearly organized, and presented with attention to visual hierarchy and detail.
+(Oral presentation) Communicates the project clearly and confidently. Explains the concept, research, process, and design decisions using appropriate terminology. Demonstrates preparation, engagement, and the ability to respond to questions.
 
 Exploration:
 Willingness to experiment with multiple ideas, styles, compositions, or techniques before arriving at the final solution. Shows curiosity and creative risk-taking.
