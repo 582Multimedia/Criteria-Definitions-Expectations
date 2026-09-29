@@ -26,10 +26,10 @@ Progress and Process:
 Evidence of an iterative design process, including sketches, drafts, revisions, feedback integration, and consistent development from concept to final outcome.
 
 Respect for Guidelines:
-The project meets all assignment requirements, including format, dimensions, specifications, deadlines, naming conventions, and submission instructions.
+The project meets all assignment requirements, including format, dimensions, specifications, naming conventions, and submission instructions.
 
 Professionalism:
-Demonstrates responsibility, preparation, and effective time management throughout the project.
+Demonstrates responsibility, preparation, and effective time management throughout the project, and deadlines.
 
 Teamwork: 
 Demonstrates effective collaboration, communication, and respect for team members. Contributes consistently to the project, shares responsibilities, listens to others, and supports the team in achieving common goals.
