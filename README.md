@@ -29,7 +29,7 @@ Respect for Guidelines:
 The project meets all assignment requirements, including format, dimensions, specifications, naming conventions, and submission instructions.
 
 Professionalism:
-Demonstrates responsibility, preparation, and effective time management throughout the project, and deadlines.
+Demonstrates responsibility, preparedness, and effective time management throughout the project. Meets deadlines and maintains respectful and professional behaviour in class.
 
 Teamwork: 
 Demonstrates effective collaboration, communication, and respect for team members. Contributes consistently to the project, shares responsibilities, listens to others, and supports the team in achieving common goals.
