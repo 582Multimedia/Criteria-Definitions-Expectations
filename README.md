@@ -1,4 +1,4 @@
-# Criteria-Definitions-Expectations
+# Criteria-Definitions-Expectations-Grading
 ## Assessment Criteria — Definitions &amp; Expectations
 
 Concept and Design:
