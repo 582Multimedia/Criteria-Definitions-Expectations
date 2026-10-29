@@ -12,6 +12,9 @@ Quality of execution using digital tools and design techniques. Accuracy, crafts
 Typography: 
 Demonstrates thoughtful and effective use of typography, including font selection, hierarchy, spacing, alignment, legibility, and overall typographic composition. Typography supports the concept and enhances the visual communication of the project.
 
+Information Hierarchy:
+Information hierarchy in typography is the organization of text according to its level of importance, using variations in typeface, size, weight, style, spacing, and alignment to establish a clear reading order. It helps viewers distinguish headings, subheadings, body text, and supporting information, making content easier to navigate, understand, and read.
+
 Research:
 Depth and relevance of visual, historical, and contextual research. References effectively inform the concept and design decisions.
 
