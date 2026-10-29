@@ -25,6 +25,8 @@ Professional quality of the final submission. Work is well-composed, clearly org
 Exploration:
 Willingness to experiment with multiple ideas, styles, compositions, or techniques before arriving at the final solution. Shows curiosity and creative risk-taking.
 
+Motion: The ability to communicate ideas through animated graphic elements, typography, images, and visual effects using movement, timing, and transitions.
+
 Progress and Process:
 Evidence of an iterative design process, including sketches, drafts, revisions, feedback integration, and consistent development from concept to final outcome.
 
